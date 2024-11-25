@@ -1,0 +1,24 @@
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\bin\Debug\Environmental Logger.exe.config
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\bin\Debug\Environmental Logger.exe
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\bin\Debug\Environmental Logger.pdb
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\bin\Debug\Environmental Logger.xml
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.vbprojResolveAssemblyReference.cache
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental_Logger.frmMain.resources
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental_Logger.Resources.resources
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.vbproj.GenerateResource.Cache
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.vbproj.CoreCompileInputs.cache
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.exe
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.xml
+C:\Users\The Lab\Desktop\Environmental Logger\Environmental Logger\obj\Debug\Environmental Logger.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\bin\Debug\Environmental Logger.exe.config
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\bin\Debug\Environmental Logger.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\bin\Debug\Environmental Logger.pdb
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\bin\Debug\Environmental Logger.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.vbprojResolveAssemblyReference.cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental_Logger.frmMain.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental_Logger.Resources.resources
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.vbproj.GenerateResource.Cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.vbproj.CoreCompileInputs.cache
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.exe
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.xml
+C:\Users\J-KEM Robot\Documents\J-KEM Scientific\Environmental Logger 8_24_21\Environmental Logger\obj\Debug\Environmental Logger.pdb
